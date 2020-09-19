@@ -1,0 +1,16 @@
+{
+	"pools":[
+
+	{
+      "name": "CPA Pool Party",
+      "url": "https://poolparty.cryptopay.org.za",
+      "api": "https://partystats.cryptopay.org.za/stats",
+      "type": "forknote",
+      "miningAddress": "poolparty.cryptopay.org.za",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    }
+		
+		
+]
+}
