@@ -13,10 +13,10 @@
 		
 			{
       "name": "Mining.DE",
-      "url": "https://apicpacoin.my-mining-pool.de",
+      "url": "https://cpacoin.my-mining-pool.de",
       "api": "https://apicpacoin.my-mining-pool.de/stats",
       "type": "forknote",
-      "miningAddress": "apicpacoin.my-mining-pool.de",
+      "miningAddress": "cpacoin.my-mining-pool.de",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
        }
