@@ -9,7 +9,17 @@
       "miningAddress": "poolparty.cryptopay.org.za",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
-    }
+       },
+		
+			{
+      "name": "Mining.DE",
+      "url": "https://apicpacoin.my-mining-pool.de",
+      "api": "https://apicpacoin.my-mining-pool.de/stats",
+      "type": "forknote",
+      "miningAddress": "apicpacoin.my-mining-pool.de",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+       }
 		
 		
 ]
