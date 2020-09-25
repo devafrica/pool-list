@@ -21,15 +21,7 @@
       "mergedMiningIsParentChain": false
        },
 	
-			{
-      "name": "letshash.it",
-      "url": "https://letshash.it",
-      "api": "https://letshash.it:8273/stats",
-      "type": "Chukwa",
-      "miningAddress": "letshash.it",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-       },
+
 	
 ]
 }
