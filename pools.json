@@ -5,7 +5,7 @@
       "name": "CPA Pool Party",
       "url": "https://poolparty.cryptopay.org.za",
       "api": "https://partystats.cryptopay.org.za/stats",
-      "type": "Chukwa",
+      "type": "Cn-Pico",
       "miningAddress": "poolparty.cryptopay.org.za",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
@@ -15,7 +15,7 @@
       "name": "Mining.DE",
       "url": "https://cpacoin.my-mining-pool.de",
       "api": "https://apicpacoin.my-mining-pool.de/stats",
-      "type": "Chukwa",
+      "type": "Cn-Pico",
       "miningAddress": "cpacoin.my-mining-pool.de",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
@@ -25,11 +25,20 @@
       "name": "letshash.it",
       "url": "https://letshash.it",
       "api": "https://letshash.it:8273/stats",
-      "type": "Chukwa",
+      "type": "Cn-Pico",
       "miningAddress": "letshash.it",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
-       }
+       },
 	
+			{
+      "name": "newpool.pw/cpa",
+      "url": "https://newpool.pw/cpa/",
+      "api": "https://minenice.newpool.pw:8215/stats",
+      "type": "Cn-Pico",
+      "miningAddress": "newpool.pw/cpa/",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+       }
 ]
 }
