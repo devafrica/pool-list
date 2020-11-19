@@ -22,11 +22,11 @@
        },
 	
 			{
-      "name": "letshash.it",
-      "url": "https://letshash.it",
-      "api": "https://letshash.it:8273/stats",
+      "name": "letshash.online",
+      "url": "https://cpa.letshash.online",
+      "api": "https://letshash.online:15094/live_stats",
       "type": "cryptonight_pico",
-      "miningAddress": "letshash.it",
+      "miningAddress": "cpa.letshash.online",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
        },
